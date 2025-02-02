@@ -1,0 +1,21 @@
+{
+  "domain": "google_assistant",
+  "name": "Google Assistant",
+  "after_dependencies": [
+    "camera",
+    "matter"
+  ],
+  "codeowners": [
+    "@schmittx"
+  ],
+  "dependencies": [
+    "http"
+  ],
+  "documentation": "https://github.com/schmittx/home-assistant-google-assistant",
+  "iot_class": "cloud_push",
+  "issue_tracker": "https://github.com/schmittx/home-assistant-google-assistant/issues",
+  "loggers": [
+    "google_assistant"
+  ],
+  "version": "1.0.0"
+}
